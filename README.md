@@ -84,6 +84,11 @@ Quem esta por trás disso?
 
 O [Ofequis](http://github.com/felquis "Ofequis") meio chapado e um monte de outras pessoas legais.
 
+Saiba mais sobre o HTJSON
+=========================
+
+Temos um ótimo e vivo conteúdo sobre o [HTJSON na Wiki](https://github.com/felquis/HTJSON/wiki). Tenha paciência o HTJSON esta evoluindo, se você não tiver paciência, crie uma [issue](https://github.com/felquis/HTJSON/issues) e me diga o que esta te encomodando tanto.
+
 Licença
 =======
 
