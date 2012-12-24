@@ -77,7 +77,7 @@ Por enquanto só existe uma versão de teste feita com jQuery, mas para o futuro
 
 Pra que isso é útil?
 ====================
-Essa é uma pergunta difícil, inicialmente eu imaginei o seguinte, quando estamos trabalhando com um Web Service no client-side, ou seja estamos fazendo uma requisição ajax a um Web Service, e quando recebemos o JSON deste Web Service, geralmente temos que criar uma estrutura HTML, até ai tudo bem, mas as vezes também precisamos criar o mesmo HTML no servidor. A ideia é, que tal usar o mesmo gerador de HTML tando para o client-side quanto para o server-side? Então essa é a ideia, não sei existe outros iniciativas parecidas, encontrei um [JSONML](http://www.jsonml.org/) um [JSON2HTML](http://json2html.com/), mas nada igual o HTJSON.
+Essa é uma pergunta difícil, inicialmente eu imaginei o seguinte: Quando estamos trabalhando com um Web Service no client-side, ou seja estamos fazendo uma requisição ajax a um Web Service, quando recebemos o JSON deste Web Service, geralmente temos que criar uma estrutura HTML baseado naquilo, até ai tudo bem, mas as vezes também precisamos criar o mesmo HTML no servidor geralmente por assunto de indexação. A ideia é, que tal usar o mesmo gerador de HTML tando para o client-side quanto para o server-side? Então essa é a ideia, não sei existe outros iniciativas parecidas, encontrei um [JSONML](http://www.jsonml.org/) um [JSON2HTML](http://json2html.com/), mas nada igual o HTJSON.
 
 Quem esta por trás disso?
 ==============
