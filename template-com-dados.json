@@ -1,0 +1,42 @@
+{
+	"WebService" : "/noticias/0/10",
+	"noEmpty" : {
+		"ul" : {
+			"_content" : {
+
+				"_each" : {
+					"property" : "Itens",
+					"max" : 5,
+					"condition" : "('{UseID}' == 10 && '{Publicado}' == 1)",
+					"generate" : {
+						"li" : {
+							"_content" : {
+								"a" : {
+									"_attr" : {
+										"href" : "{URL}",
+										"title" : "{Titulo}"
+									},
+									"_content" : "{Titulo}"
+								}
+							}
+						}
+					}
+				},
+				"li" : {
+					"_content" : {
+						"a" : {
+							"_attr" : {
+								"href" : "http://tutsmais.com.br",
+								"title" : "TutsMais"
+							},
+							"_content" : "Ver mais"
+						}
+					}
+				}
+			}
+		}
+	},
+	"isEmpty" : {
+
+	}
+}
